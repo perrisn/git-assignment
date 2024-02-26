@@ -38,7 +38,7 @@ def gc_content():
     
 
 def oneline_fasta():
-    '''docstring'''
+    '''Making a change for github assignment.'''
     pass
 
 def qual_score(phred_score: str) -> float:
