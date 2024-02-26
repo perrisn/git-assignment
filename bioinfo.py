@@ -42,6 +42,7 @@ def oneline_fasta():
     '''Making a change for github assignment.'''
     '''Adding another change.'''
     '''Making another change.'''
+    '''Final change.'''
     pass
 
 def qual_score(phred_score: str) -> float:
